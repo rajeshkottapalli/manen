@@ -1,3 +1,2 @@
 thdg
-hello
 hi
